@@ -1,15 +1,24 @@
 {
 	"name": "preloader.css3",
 	"description": "Preloader for you webpage",
-	"keywords": ["Preloader", "Page loader", "Loading", "Spinner"],
-	"main": ["dist/preloader.js", "dist/preloader.css"],
+	"keywords": [
+		"Preloader",
+		"Page",
+		"loader",
+		"Loading",
+		"Spinner"
+	],
+	"main": [
+		"dist/preloader.js", 
+		"dist/preloader.css"
+	],
 	"authors": [
 		"Yarkov Aleksey <yarkov_aleksei@mail.ru>"
 	],
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"moduleType": "globals",
 	"license": "MIT",
-	"homepage": "https://yarkovaleksei.github.io/preloader.css3",
+	"homepage": "https://yarkovaleksei.github.com/preloader.css3",
 	"ignore": [
 		"**/.*",
 		"node_modules",

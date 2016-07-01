@@ -1,0 +1,27 @@
+{
+	"name": "preloader.css3",
+	"version": "1.0.2",
+	"description": "Preloader for you webpage",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yarkovaleksei/preloader.css3.git"
+	},
+	"keywords": [
+		"Preloader",
+		"Page",
+		"loader",
+		"Loading",
+		"Spinner"
+	],
+	"authors": [
+		"Yarkov Aleksey <yarkov_aleksei@mail.ru>"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/yarkovaleksei/preloader.css3/issues"
+	},
+	"homepage": "https://yarkovaleksei.github.com/preloader.css3"
+}
