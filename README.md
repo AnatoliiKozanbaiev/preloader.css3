@@ -1,33 +1,29 @@
 # preloader.css3
 
+[Демонстрация работы](https://yarkovaleksei.github.io/preloader.css3)
+
 **Установка:**
 ```bash
 $ bower install preloader.css3 --save
 #или так
-$ bower install https://github.com/yarkovaleksei/preloader.css3.git --save
+$ npm install preloader.css3 --save
 ```
 
 **Подключение (перед закрывающим тегом head):**
 ```html
 <link rel="stylesheet" href="bower_components/preloader.css3/dist/preloader.css">
-```
-
-**И после открывающего тега body вставляем html блок:**
-```html
-<div class="css3 container">
-    <div class="css3 wrapper">
-        <div class="css3 part left"></div>
-        <h1 class="css3">Loading application... Please wait</h1>
-        <div class="css3 round1 round2"></div>
-        <div class="css3 part right"></div>
-    </div>
-</div>
-```
-
-**Подключение (перед закрывающим тегом body):**
-```html
 <script src="bower_components/preloader.css3/dist/preloader.js"></script>
+# или
+<link rel="stylesheet" href="node_modules/preloader.css3/dist/preloader.css">
+<script src="node_modules/preloader.css3/dist/preloader.js"></script>
 ```
 
-**Результат:**
-[Демо](https://yarkovaleksei.github.io/preloader.css3)
+**И сразу после открывающего тега body вызываем функцию preloaderCSS3:**
+```html
+<script>preloaderCSS3("Loading application... Please wait");</script>
+```
+
+Функция **preloaderCSS3** принимает один аргумент. Это сообщение, которое будет выведено на экране загрузки.
+
+Если функцию не вызвать, то прелоадер не скроется после загрузки страницы.
+
