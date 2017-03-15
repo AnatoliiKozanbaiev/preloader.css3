@@ -1,5 +1,7 @@
 # preloader.css3
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yarkovaleksei/preloader.css3.svg)](https://greenkeeper.io/)
+
 ![](https://david-dm.org/yarkovaleksei/preloader.css3.svg)
 
 [Демонстрация работы](https://yarkovaleksei.github.io/preloader.css3)
