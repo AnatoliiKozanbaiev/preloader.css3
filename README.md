@@ -1,5 +1,7 @@
 # preloader.css3
 
+![](https://david-dm.org/yarkovaleksei/preloader.css3.svg)
+
 [Демонстрация работы](https://yarkovaleksei.github.io/preloader.css3)
 
 **Установка:**
