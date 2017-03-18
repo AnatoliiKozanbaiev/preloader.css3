@@ -1,6 +1,8 @@
 # preloader.css3
 
-![](https://david-dm.org/yarkovaleksei/preloader.css3.svg)
+[![Package Quality](http://npm.packagequality.com/badge/gulp-preloader.css3.png)](http://packagequality.com/#?package=gulp-preloader.css3)
+
+[![Package Quality](http://npm.packagequality.com/shield/gulp-preloader.css3.svg)](http://packagequality.com/#?package=gulp-preloader.css3)  [![](https://david-dm.org/yarkovaleksei/preloader.css3.svg)]
 
 [Демонстрация работы](https://yarkovaleksei.github.io/preloader.css3)
 
