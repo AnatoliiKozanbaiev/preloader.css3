@@ -4,7 +4,7 @@
 
 [![Package Quality](http://npm.packagequality.com/shield/preloader.css3.svg)](http://packagequality.com/#?package=preloader.css3)  ![](https://david-dm.org/yarkovaleksei/preloader.css3.svg)
 
-[Демонстрация работы](https://yarkovaleksei.github.io/preloader.css3)
+[Демонстрация работы](https://yarkovaleksei.github.io/preloader.css3/demo/)
 
 **Установка:**
 ```bash
